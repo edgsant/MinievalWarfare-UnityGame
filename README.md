@@ -13,13 +13,13 @@ El jugador asume el rol de un estratega militar en un mundo de fantasía medieva
 *   **UX/UI & Feedback Sonoro:** Interfaz de usuario rica (tooltips dinámicos de tropas), integración total de SFX por eventos (magia, espadas) y música ambiental en bucle mediante gestores de audio.
 
 ## 🕹️ Demostración
-![Gameplay Principal](./Imagenes/gameplay.gif)
+![Gameplay Principal](./Imagenes/MinievalWarfare.gif)
 *Invocación estratégica de infantería, control de terreno e IA enemiga evaluando prioridades.*
 
 ## 📂 Documentación y Diseño (GDD)
 El diseño completo del juego, la planificación de mecánicas, curvas de dificultad, requisitos técnicos, justificación de biomas y licencias de arte *Pixel Art* están recogidos en el **Game Design Document (GDD)**. 
 
-📄 **[Leer GDD Completo (PDF)](./Docs/GDD_MinievalWarfare_2.pdf)**
+📄 **[Leer GDD Completo (PDF)](./Docs/GDD_MinievalWarfare.pdf)**
 
 ## 🛠️ Stack y Entorno de Desarrollo
 *   **Motor:** Unity (versión 6) - 2D URP.
