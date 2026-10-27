@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tiles
+  - 
+  - 
+  - Unit
+  - Team0
+  - Team1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3045820187
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 648279827
+    locked: 0
+  - name: Tiles_back1
+    uniqueID: 3241772491
+    locked: 0
+  - name: Tiles_back2
+    uniqueID: 2724488453
+    locked: 0
+  - name: Decoration_back1
+    uniqueID: 2668839391
+    locked: 0
+  - name: Decoration_back2
+    uniqueID: 2782144195
+    locked: 0
+  - name: Units
+    uniqueID: 1959014305
+    locked: 0
+  - name: Tiles_front1
+    uniqueID: 3582336825
+    locked: 0
+  - name: Tiles_front2
+    uniqueID: 51328627
+    locked: 0
+  - name: Decoration_front1
+    uniqueID: 3292104205
+    locked: 0
+  - name: Decoration_front2
+    uniqueID: 4218616943
+    locked: 0
+  m_RenderingLayers:
+  - Default
